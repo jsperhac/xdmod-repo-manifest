@@ -21,6 +21,18 @@
     />
 
     <!--
+    XSEDE XDMoD
+
+    This is the XSEDE XDMoD repository. 
+    -->
+    <project
+        name="xsede-xdmod"
+        groups="xsede-xdmod"
+    >
+        <linkfile src="." dest="xdmod/open_xdmod/modules/xsede" />
+    </project>
+
+    <!--
     Open XDMoD Modules
 
     These are Open XDMoD modules developed by the Open XDMoD team.
