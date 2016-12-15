@@ -26,8 +26,8 @@
     This is the XSEDE XDMoD repository. 
     -->
     <project
-        name="xsede-xdmod"
-        groups="xsede-xdmod"
+        name="xdmod-xsede"
+        groups="xdmod-xsede"
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/xsede" />
     </project>
