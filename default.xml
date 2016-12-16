@@ -22,6 +22,7 @@
     -->
     <project
         name="xdmod"
+        revision="error-bars-default-off"
         groups="xdmod"
     />
 
@@ -51,6 +52,7 @@
     </project>
     <project
         name="xdmod-supremm"
+        revision="error-bars-default-off"
         groups="supremm"
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/supremm" />
