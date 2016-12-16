@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <remote
-        name="ubccr"
-        alias="upstream"
-        fetch="ssh://git@github.com/ubccr"
+        name="jsperhac"
+        alias="origin"
+        fetch="ssh://git@github.com/jsperhac"
     />
     <default
         remote="ubccr"
