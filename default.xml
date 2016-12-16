@@ -5,10 +5,10 @@
         alias="origin"
         fetch="ssh://git@github.com/jsperhac"
     />
-    <default
+    <!-- <default
         remote="ubccr"
         revision="xdmod6.5"
-    />
+    /> -->
 
     <!--
     Open XDMoD
