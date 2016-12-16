@@ -17,6 +17,7 @@
     -->
     <project
         name="xdmod"
+        revision="trend-line-default-off"
         groups="xdmod"
     />
 
@@ -28,6 +29,7 @@
     <project
         name="xdmod-xsede"
         groups="xdmod-xsede"
+        revision="trend-line-default-off"
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/xsede" />
     </project>
@@ -41,12 +43,14 @@
     <project
         name="xdmod-appkernels"
         groups="appkernels"
+        revision="xdmod6.5"
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/appkernels" />
     </project>
     <project
         name="xdmod-supremm"
         groups="supremm"
+        revision="trend-line-default-off"
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/supremm" />
     </project>
