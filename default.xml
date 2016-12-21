@@ -19,10 +19,13 @@
     Open XDMoD
 
     This is the main Open XDMoD repository. It will be installed by default.
+
+    JMS wants a particular open xdmod repo and everything else just xdmod6.5...
     -->
     <project
         name="xdmod"
         groups="xdmod"
+        revision="null-job-count-fix-missing-labels"
     />
 
     <!--
