@@ -5,20 +5,37 @@
         alias="upstream"
         fetch="ssh://git@github.com/ubccr"
     />
+    <remote
+        name="jsperhac"
+        alias="origin"
+        fetch="ssh://git@github.com/jsperhac"
+    />
     <default
-        remote="ubccr"
+        remote="jsperhac"
         revision="xdmod6.6"
     />
 
     <!--
     Open XDMoD
 
-    This is the main Open XDMoD repository. It will be installed by default.
+    This is the main Open XDMoD repository. Note the revision tag may be added to point to the branch to deploy.
     -->
     <project
         name="xdmod"
         groups="xdmod"
     />
+
+    <!--
+    XSEDE XDMoD
+
+    This is the XSEDE XDMoD repository. 
+    -->
+    <project
+        name="xdmod-xsede"
+        groups="xdmod-xsede"
+    >
+        <linkfile src="." dest="xdmod/open_xdmod/modules/xsede" />
+    </project>
 
     <!--
     Open XDMoD Modules
