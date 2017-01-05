@@ -23,6 +23,7 @@
     <project
         name="xdmod"
         groups="xdmod"
+        revision="y-axis-controls"
     />
 
     <!--
