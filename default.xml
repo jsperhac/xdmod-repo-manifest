@@ -32,7 +32,7 @@
     -->
     <project
         name="xdmod-xsede"
-        revision="remove-dead-realms-performance"
+        revision="remove-pops-ingestors"
         groups="xdmod-xsede"
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/xsede" />
