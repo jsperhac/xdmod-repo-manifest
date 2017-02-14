@@ -32,7 +32,7 @@
     -->
     <project
         name="xdmod-xsede"
-        revision="remove-dead-realms-proposals"
+        revision="remove-dead-realms-performance"
         groups="xdmod-xsede"
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/xsede" />
