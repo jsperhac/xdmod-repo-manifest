@@ -32,7 +32,7 @@
     -->
     <project
         name="xdmod-xsede"
-        revision="remove-pops-ingestors"
+        revision="trend-line-default-off"
         groups="xdmod-xsede"
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/xsede" />
