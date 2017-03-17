@@ -23,6 +23,7 @@
     <project
         name="xdmod"
         groups="xdmod"
+        revision="convert-old-rest-stack"
     />
 
     <!--
@@ -46,6 +47,7 @@
     <project
         name="xdmod-appkernels"
         groups="appkernels"
+        revision="convert-old-rest-stack"
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/appkernels" />
     </project>
