@@ -34,6 +34,7 @@
     <project
         name="xdmod-xsede"
         groups="xdmod-xsede"
+        revision="xdmod6.6"
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/xsede" />
     </project>
