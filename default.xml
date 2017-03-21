@@ -55,6 +55,7 @@
     <project
         name="xdmod-supremm"
         groups="supremm"
+        revision="convert-old-rest-stack"
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/supremm" />
     </project>
