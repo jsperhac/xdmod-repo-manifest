@@ -23,7 +23,7 @@
     <project
         name="xdmod"
         groups="xdmod"
-        revision="convert-old-rest-stack"
+        revision="xdmod6.6"
     />
 
     <!--
@@ -48,14 +48,14 @@
     <project
         name="xdmod-appkernels"
         groups="appkernels"
-        revision="convert-old-rest-stack"
+        revision="xdmod6.6"
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/appkernels" />
     </project>
     <project
         name="xdmod-supremm"
         groups="supremm"
-        revision="convert-old-rest-stack"
+        revision="groupby-function-signatures"
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/supremm" />
     </project>
