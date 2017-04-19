@@ -12,7 +12,7 @@
     />
     <default
         remote="jsperhac"
-        revision="xdmod6.6"
+        revision="xdmod6.7"
     />
 
     <!--
@@ -23,7 +23,6 @@
     <project
         name="xdmod"
         groups="xdmod"
-        revision="xdmod6.6"
     />
 
     <!--
@@ -34,7 +33,6 @@
     <project
         name="xdmod-xsede"
         groups="xdmod-xsede"
-        revision="xdmod6.6"
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/xsede" />
     </project>
@@ -48,14 +46,12 @@
     <project
         name="xdmod-appkernels"
         groups="appkernels"
-        revision="xdmod6.6"
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/appkernels" />
     </project>
     <project
         name="xdmod-supremm"
         groups="supremm"
-        revision="groupby-function-signatures"
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/supremm" />
     </project>
