@@ -23,6 +23,7 @@
     <project
         name="xdmod"
         groups="xdmod"
+	revision="tyearke/fixes/me-display-error-on-first-update"
     />
 
     <!--
