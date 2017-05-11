@@ -23,6 +23,7 @@
     <project
         name="xdmod"
         groups="xdmod"
+	revision="chart-dialog-list-improvements"
     />
 
     <!--
