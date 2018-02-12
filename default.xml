@@ -23,7 +23,7 @@
     <project
         name="xdmod"
         groups="xdmod"
-        revision="single-point-timeseries"
+        revision="plot-one-point"
     />
 
     <!--
