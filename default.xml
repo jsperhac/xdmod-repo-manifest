@@ -12,7 +12,7 @@
     />
     <default
         remote="jsperhac"
-        revision="xdmod8.0"
+        revision="xdmod7.5"
     />
 
     <!--
@@ -23,7 +23,6 @@
     <project
         name="xdmod"
         groups="xdmod"
-        revision="single-point-timeseries"
     />
 
     <!--
