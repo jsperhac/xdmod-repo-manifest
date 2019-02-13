@@ -45,6 +45,7 @@
     -->
     <project
         name="xdmod-appkernels"
+        revision="xdmod8.0"
         groups="appkernels"
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/appkernels" />
